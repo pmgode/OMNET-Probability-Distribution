@@ -1,3 +1,4 @@
+Problem Statement:
 Create a simple model consisting of a sender S and a receiver R.
 The sender creates new messages at a random time interval T and sends it to the receiver. 
 The receiver records the inter-arrival times of the messages.
